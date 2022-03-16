@@ -1,5 +1,6 @@
-# 50Day-DSA
-- <a href="https://github.com/Rick-mad-lab/50Day-DSA/blob/master/Syllabus" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Syllabus</a>
+
+# 50Day-DSA-Boot Camp
+- <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Syllabus</a>
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Assignments</a>
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Books</a>
 
