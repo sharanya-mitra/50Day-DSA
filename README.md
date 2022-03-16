@@ -1,4 +1,4 @@
-# 50Day-DSA
+# 50Day-DSA-Boot Camp
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Syllabus</a>
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Assignments</a>
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Books</a>
