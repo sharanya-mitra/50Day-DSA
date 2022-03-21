@@ -3,6 +3,7 @@
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Syllabus</a>
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Assignments</a>
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Books</a>
+- <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">assignments</a>
 
 ## Connect with me
   <a href="https://twitter.com/SharanyaMitra2">
