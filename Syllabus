@@ -1,14 +1,63 @@
-1. Java Programming Basics 
-2. Object-Oriented Design 
-3. Arrays, Linked Lists, and Recursion 
-4. Mathematical Foundations 
-5. Stacks and Queues 
-6. List Abstractions 
-7. Tree Structures. 
-8. Priority Queues 
-9. Maps and Dictionaries 
-10. Search Tree Structures 
-11. Sorting and Selection 
-12. Text Processing 
-13. Graphs 
-14. Memory 
+Arrays & Strings
+Basic Array And Strings Questions 
+Kadane's Algorithm
+Dutch National Flag Algorithm
+Sliding Window
+Two pointers
+Multidimensional arrays
+Traversal Based Problems
+Rotation Based Problems
+Recursion And Backtracking
+Basic Recursion Questions
+Divide And Conquer
+Sorting Algoritms
+Insertion Sort
+Selection Sort
+Binary Search Applications
+Binary Search On Arrays
+Binary Search On Matrix
+Linked Lists
+Reversal Problems
+Sorting Problems
+Slow And Fast Pointers
+Modify In Linked list
+Stacks & Queues
+Implementation Based Problems
+Application Based Problems
+Binary Trees
+Tree Traversals
+Construction Of Trees
+Tree Views
+Standard Problems
+BST
+Construction Of BST
+Conversion Based Problems
+Modification in BST
+Standard Problems 
+Priority Queues And Heaps
+Implementation Based problems
+Conversion based problems
+K Based Problems
+Graphs
+Graph Traversals - BFS And DFS
+MST
+Shortest Path Algorithms
+Topological Sort
+Graphs in Matrix
+Dynamic Programming
+DP with Arrays
+DP With Strings
+DP With Maths
+DP With Trees
+Breaking And Partition Based Problems
+Counting Based Problems
+Hard Recursion And Backtracking Questions
+Other Topics
+Hashmaps
+Tries
+Bit Manipulation
+Greedy
+Circular Queues
+Deques - Hot Topic
+Doubly And Circular LL
+String Algorithms like KMP and Z Algorithm
