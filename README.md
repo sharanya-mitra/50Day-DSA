@@ -1,9 +1,8 @@
 
 # 50Day-DSA-Boot Camp
 - <a href="https://github.com/Rick-mad-lab/50Day-DSA/blob/master/Syllabus" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Syllabus</a>
-- <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Assignments</a>
 - <a href="" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Books</a>
-- <a href="https://github.com/Rick-mad-lab/50Day-DSA/blob/master/assignments.txt" style="background-color:#FFFFFF;color:#000000;text-decoration:none">assignments</a>
+- <a href="https://github.com/Rick-mad-lab/50Day-DSA/blob/master/assignments.txt" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Assignments</a>
 
 
 ## Connect with me
